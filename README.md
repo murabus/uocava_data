@@ -15,7 +15,7 @@ Abus, Murat. 2021. "Election Administration and UOCAVA Voting." Arkansas Politic
 
 The dataset is presented in .csv, .dta, and .rdata formats. The repository does not includes a codebook. however the users can utilize the "codebook" command after loading the dataset to Stata.
 
-```stata
+```mata
 use "UOCAVA Dataset 2012-2018.dta", replace
 codebook
 ```
