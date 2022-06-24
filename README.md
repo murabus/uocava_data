@@ -13,7 +13,7 @@ This repository contains the replication dataset for the following conference pa
 
 Abus, Murat. 2021. "Election Administration and UOCAVA Voting." Arkansas Political Science Association 48th Annual Meeting. Virtual Presentation. January 2021.
 
-The dataset is presented in .csv, .dta, and .rdata formats. The repository does not includes a codebook. however the users can utilize the "codebook" command after loading the dataset to Stata.
+The dataset is presented in .csv, .dta, and .rdata formats. The repository does not includes a codebook, however the user can access detailed explanation on the variables using the following Stata code:
 
 ```stata
 use "UOCAVA Dataset 2012-2018.dta", replace
